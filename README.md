@@ -7,6 +7,10 @@ Collection of interesting material to check out, in the tradition of the famous 
 - [Hammock-Driven Development - Rich Hickey, Creator of Clojure](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [All The Little Things - Sandy Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 
+## Papers
+
+- [OWASP - API Security Top 10](https://github.com/OWASP/API-Security/blob/develop/2019/en/dist/owasp-api-security-top-10.pdf)
+
 ## Tutorials
 
 - Linux
